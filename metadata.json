@@ -1,0 +1,5 @@
+{
+  "name": "TruthLens",
+  "description": "An AI-powered assistant to analyze images and videos for authenticity, detecting AI-generation or manipulation with a verdict and contextual reasoning.",
+  "requestFramePermissions": []
+}
